@@ -45,4 +45,4 @@ Typograhpy
 
 ## Author
 
-- Frontend Mentor - [@meandrew](https://www.frontendmentor.io/profile/meandrewaprianto)
+- Frontend Mentor - [@meandrewaprianto](https://www.frontendmentor.io/profile/meandrewaprianto)
